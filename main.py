@@ -1,10 +1,8 @@
 from app import App
-from config import Config
 
 
 def main():
-    config = Config()
-    App().run(config)
+    App().run()
 
 
 if __name__ == '__main__':

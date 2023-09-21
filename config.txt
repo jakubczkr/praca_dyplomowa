@@ -1,0 +1,14 @@
+[CONFIG]
+window_size = 600x1150
+
+window_title = Praca magisterska
+
+; Możliwe wartości które obsługuje biblioteka są podane tutaj: https://matplotlib.org/stable/users/explain/colors/colormaps.html
+colormap = viridis
+
+; Możliwe rodzaje markerów podane zostały tutaj: https://matplotlib.org/stable/api/markers_api.html
+marker_style = *
+
+marker_color = white
+
+marker_size = 10
